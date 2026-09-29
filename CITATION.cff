@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite this repository."
+title: "Structural analysis of viral proteins with immunoglobulin domains"
+authors:
+  - family-names: Litvin
+    given-names: Ulad
+    affiliation: "MRC-University of Glasgow Centre for Virus Research"
+date-released: 2026-09-29
+url: "https://github.com/ulad-litvin/viral-ig-domain-structural-analysis.git"
+version: "1.0.0"
